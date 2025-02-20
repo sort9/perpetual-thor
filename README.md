@@ -1,5 +1,5 @@
 # PerpetualThor
-A computer monitoring application built with C++, Java, and Python.
+An open-source computer monitoring application built with C++, Java, Python, PowerShell, and Batchfile
 
 # Current Features
 
