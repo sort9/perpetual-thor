@@ -1,6 +1,9 @@
 # PerpetualThor
 An open-source computer monitoring application built with C++, Java, Python, PowerShell, and Batchfile
 
+# Data Pipeline
+Bulk Extractor (C++) -> Log Parser (Java) -> GUI Data Viewer (Python)
+
 # Current Features
 - Extraction.log file is generated based on current running system processes and programs
 - C++ extraction.log file generator program
