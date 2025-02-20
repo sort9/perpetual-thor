@@ -41,6 +41,6 @@ int main(void) {
     extractSysInfo(); // Extraction of current system running programs
     writeToFile(); // Writing of current system running programs to extraction.log
     cout << "Exiting...";
-    cin.ignore(); // To get keep prompt window from closing
+    cin.ignore(); // To keep window from closing
     return 0;
 }
